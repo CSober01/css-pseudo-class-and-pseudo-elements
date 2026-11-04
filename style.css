@@ -13,3 +13,15 @@ button {
   border-color: lightgrey;
   background-color: khaki;
 }
+
+input:disabled {
+  background-color: lightgrey;
+}
+
+input:hover {
+  border-color: khaki;
+}
+
+button:hover {
+  color: pink;
+}
